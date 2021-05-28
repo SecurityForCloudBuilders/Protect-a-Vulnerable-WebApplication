@@ -27,7 +27,7 @@ The recommended way is using docker using the following commands to build and ru
 
 Create a file with name `trend_app_protect.ini` and put the information bellow.
 
-`trend_app_protect]`
+`[trend_app_protect]`
 
 `key = my-key`
 
